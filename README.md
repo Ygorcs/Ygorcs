@@ -1,6 +1,7 @@
 # Olá, eu sou o Ygor 👋
 
 Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e estou me formando como Desenvolvedor Full Stack.
+
 Atualmente aprendendo HTML, CSS, JavaScript e Git/GitHub na prática.
 
 <!--
