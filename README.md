@@ -4,6 +4,13 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e estou me formand
 
 Atualmente aprendendo HTML, CSS, JavaScript e Git/GitHub na prática.
 
+## Tecnologias que estou estudando
+
+- HTML5
+- CSS3
+- JavaScript
+- Git e GitHub
+
 <!--
 **Ygorcs/Ygorcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
