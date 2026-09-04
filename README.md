@@ -1,5 +1,8 @@
 # Olá, eu sou o Ygor 👋
 
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e estou me formando como Desenvolvedor Full Stack.
+Atualmente aprendendo HTML, CSS, JavaScript e Git/GitHub na prática.
+
 <!--
 **Ygorcs/Ygorcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
