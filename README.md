@@ -1,10 +1,22 @@
-# Olá, eu sou o Ygor 👋
+## Olá, eu sou o Ygor 👋
 
-Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e estou me formando como Desenvolvedor Full Stack.
+- Estudante de Análise e Desenvolvimento de Sistemas (ADS) pela Estácio, atualmente 2/5.
 
-Atualmente aprendendo HTML, CSS, JavaScript e Git/GitHub na prática.
+- Em paralelo à faculdade, estou me aprofundando por conta própria para me tornar um **Desenvolvedor Full-Stack** — estudando na prática, entendendo cada linha de código e construindo projetos reais do zero.
+
+- Sempre aberto a aprender, errar, corrigir e evoluir.
 
 ## 🚀 Tecnologias que estou estudando
+
+**Na faculdade (ADS):**
+
+![Lógica de Programação](https://img.shields.io/badge/Lógica_de_Programação-4B0082?style=for-the-badge)
+![Banco de Dados](https://img.shields.io/badge/Banco_de_Dados-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redes de Computadores](https://img.shields.io/badge/Redes_de_Computadores-00599C?style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Segurança da Informação](https://img.shields.io/badge/Segurança_da_Informação-000000?style=for-the-badge&logo=shieldsdotio&logoColor=white)
+
+**Por conta própria (trilha Full Stack):**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
