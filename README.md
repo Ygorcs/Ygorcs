@@ -1,4 +1,4 @@
-## Olá, eu sou o Ygor 👋
+## Ygor Soares
 
 - Estudante de Análise e Desenvolvimento de Sistemas (ADS) pela Estácio, atualmente 2/5.
 
@@ -6,7 +6,7 @@
 
 - Sempre aberto a aprender, errar, corrigir e evoluir.
 
-## 🚀 Tecnologias que estou estudando
+##  Tecnologias que estou estudando
 
 **Na faculdade (ADS):**
 
@@ -24,7 +24,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 📫 Como me encontrar
+##  Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ygor-soares-9859561ab)
 
