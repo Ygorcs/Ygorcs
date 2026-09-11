@@ -6,12 +6,6 @@
 
 - Sempre aberto a aprender, errar, corrigir e evoluir.
 
-##  Tecnologias que estou estudando
-
-## Estou aprendendo
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-
-
 **Na faculdade (ADS):**
 
 ![Lógica de Programação](https://img.shields.io/badge/Lógica_de_Programação-4B0082?style=for-the-badge)
